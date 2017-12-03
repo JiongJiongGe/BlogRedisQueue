@@ -1,0 +1,11 @@
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/MybatisBuildApplication.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/service/redis/RedisServiceI.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/service/pen/YunKaiPenServiceI.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/aop/ControllerAspect.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/controller/RedisController.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/service/impl/pen/YunKaiPenServiceImpl.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/service/impl/redis/RedisServiceImpl.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/mapper/pen/YunKaiPenMapper.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/config/DruidConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/config/MybatisConfiguration.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_redis_queue/src/main/java/com/mybatis/domain/pen/YunKaiPenModel.java
