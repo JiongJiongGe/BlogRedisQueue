@@ -1,3 +1,21 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @JiongJiongGe
+ Sign out
+ Watch 0
+  Unstar 1  Fork 0 JiongJiongGe/BlogSingleton
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+Branch: master Find file Copy pathBlogSingleton/.gitignore
+8e1a78b  on 16 Oct
+@JiongJiongGe JiongJiongGe Update .gitignore
+1 contributor
+RawBlameHistory     
+24 lines (18 sloc)  278 Bytes
 # Compiled class file
 *.class
 
@@ -17,6 +35,19 @@
 *.zip
 *.tar.gz
 *.rar
+.idea
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
