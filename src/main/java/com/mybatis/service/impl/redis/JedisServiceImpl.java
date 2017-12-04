@@ -14,7 +14,7 @@ import redis.clients.jedis.JedisPool;
 @Service("jedisService")
 public class JedisServiceImpl implements JedisServiceI{
 
-    private final static Logger logger = LoggerFactory.getLogger(RedisServiceImpl.class);
+    private final static Logger logger = LoggerFactory.getLogger(JedisServiceImpl.class);
 
     @Autowired
     private JedisPool jedisPool;
