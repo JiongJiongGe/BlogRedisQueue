@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 @Service("redBagPackDetailService")
 public class RedBagPackDetailServiceImpl implements RedBagPackDetailServiceI{
 
-    private static Logger logger = LoggerFactory.getLogger(RedBagController.class);
+    private static Logger logger = LoggerFactory.getLogger(RedBagPackDetailServiceImpl.class);
 
     @Autowired
     private RedBagPackDetailMapper redBagPackDetailMapper;
